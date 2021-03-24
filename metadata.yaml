@@ -1,0 +1,21 @@
+_repo: The-Enormous-Word_64747
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oberfield, William
+    alias: Oberfield, Bill
+    gutenberg_agent_id: '52681'
+    url: http://www.gutenberg.org/2009/agents/52681
+description: ''
+gutenberg_issued: '2021-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Enormous Word
+url: http://www.gutenberg.org/ebooks/64747
